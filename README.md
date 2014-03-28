@@ -1,7 +1,7 @@
 Pushbullet Alfred Workflow
 ==========================
 
-An Alfred workflow to use with the Pushbullet service.
+An Alfred workflow to use with the [Pushbullet](https://www.pushbullet.com) service.
 
 ## Configuration
 
